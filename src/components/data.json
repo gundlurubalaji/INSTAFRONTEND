@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://wallpapercave.com/wp/wp2468660.jpg",
+            "date": "12 Feb 2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":75,
+            "description": "An amazing exprience in snow",
+            "PostImage": "https://wallpapercave.com/wp/wp10241133.jpg",
+            "date": "15 May 2022"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Now going to United State",
+            "PostImage": "https://wallpapercave.com/wp/wp10448216.jpg",
+            "date": "10 Jun 2022"
+            }
+            ]
+}
